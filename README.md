@@ -46,4 +46,4 @@ Clique <a href="https://github.com/Paulooo0/relational-db-college-activity/blob/
 
 #### Resumo expandido
 
-Clique <a href="https://github.com/Paulooo0/relational-db-college-activity/blob/main/resumo.docx">aqui</a> para acessar o resumo expandido
+Clique <a href="https://github.com/Paulooo0/relational-db-college-activity/blob/main/resumo.docx">aqui</a> para acessar o resumo expandido (formato .docx)
